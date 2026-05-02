@@ -38,7 +38,7 @@ Multi-agent deliberation system for OpenCode. Coordinates a configurable panel o
 In OpenCode:
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/<your-repo>/main/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/Ken1301225/forest/main/INSTALL.md
 ```
 
 Or manually — see [INSTALL.md](INSTALL.md).

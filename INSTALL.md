@@ -47,7 +47,7 @@ Other models (kimi, qwen, glm, etc.) may also support `thinking`/`reasoningEffor
 ## One-Liner Install
 
 ```bash
-git clone https://github.com/<your-repo>/forest /tmp/forest && \
+git clone https://github.com/Ken1301225/forest /tmp/forest && \
 mkdir -p ~/.agents/skills ~/.config/opencode/agents && \
 cp -r /tmp/forest/skills/forest-orchestration ~/.agents/skills/ && \
 cp /tmp/forest/agents/forest*.md ~/.config/opencode/agents/ && \
